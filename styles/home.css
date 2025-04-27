@@ -1,0 +1,10 @@
+#nav-username {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+    margin-right: 15px;
+}
+
+.card {
+    max-width: 600px;
+    margin: 0 auto;
+}
